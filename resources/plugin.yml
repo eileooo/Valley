@@ -1,0 +1,6 @@
+main: com.leo.littlefarm.Main
+name: LittleFarm
+author: leo
+version: 1.0
+depend:
+  - KotlinBukkitAPI
